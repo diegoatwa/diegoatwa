@@ -1,12 +1,12 @@
 <h1 align="center">Diego Azevedo</h1>
 
-- 🔭 I’m currently working on [Amplifica](https://www.amplifica.me/)
+<p align="center">🔭 I’m currently working on <a href="https://www.amplifica.me/">Amplifica</a></p>
 
-- 👩‍🚀 Cadet at [42 São Paulo](https://www.42sp.org.br/)
+<p align="center">👽 Cadet at <a href="https://www.42sp.org.br/">42 São Paulo</a></p>
 
-- 🌱 I’m currently learning C, Unix and computer science
+<p align="center">🌱 I’m currently learning C, Unix, AppsScript, JavaScript and computer science</p>
 
-- 📫 How to reach me **contato.diegoazevedo@gmail.com**
+<p align="center">📫 How to reach me <strong>contato.diegoazevedo@gmail.com</strong></p>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
