@@ -16,7 +16,13 @@
 
 <h2 align="center">💻 42 Projects 👽</h2>
 <p align="center"> 
-<img src="https://game.42sp.org.br/static/assets/achievements/libfte.png" alt="c" width="auto" height="auto"/>
+<img src="https://game.42sp.org.br/static/assets/achievements/libfte.png" alt="c" hight="auto" width="auto"/>
+ <img src="https://game.42sp.org.br/static/assets/achievements/get_next_linee.png" alt="c" hight="auto" width="auto"/>
+ <img src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" alt="c" hight="auto" width="auto"/>
+<br>
+   <img src="https://badge42.herokuapp.com/api/project/diazeved/Libft"/>
+  <img src="https://badge42.herokuapp.com/api/project/diazeved/get_next_line"/>
+  <img src="https://badge42.herokuapp.com/api/project/diazeved/ft_printf"/>
 <br>
 <img src="https://badge42.herokuapp.com/api/stats/diazeved?privacyEmail=true&privacyName=true&darkmode=true&cursus=42cursus" alt="c" width="auto" height="auto"/>
 
