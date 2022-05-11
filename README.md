@@ -27,7 +27,7 @@
 
 ---
 
-<h2 align="center">💻 42 Projects 👽</h2>
+<h2 align="center">💻 42sp Projects Finished 👽</h2>
 <div align="center"> 
 <img margin-top="1000px"src="https://user-images.githubusercontent.com/26748277/167853312-df10387d-7826-43a6-8b08-51984562f7b8.png">
 <img src="https://user-images.githubusercontent.com/26748277/167853340-217f2a5e-6b39-44e4-8ce9-351dd8f83a37.png">
