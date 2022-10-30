@@ -7,8 +7,6 @@
 
 <p>🔭 I’m working on <a href="https://www.amplifica.me/">Amplifica</a></p>
 
-<p>👽 Cadet at <a href="https://www.42sp.org.br/">42 São Paulo</a></p>
-
 <p>📫 How to reach me <strong>oi@diegoazevedo.com.br</strong></p>
 
 ---
