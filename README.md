@@ -5,8 +5,6 @@
 
 <h1>Diego Azevedo 🙂</h1>
 
-<p>🔭 I’m working on <a href="https://www.amplifica.me/">Amplifica</a></p>
-
 <p>📫 How to reach me <strong>oi@diegoazevedo.com.br</strong></p>
 
 ---
